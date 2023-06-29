@@ -1,6 +1,6 @@
 # Software
 
-Ref https://github.com/mamba-org/micromamba-releases/releases
+Ref <https://github.com/mamba-org/micromamba-releases/releases>
 
 ```sh
 VERSION=1.4.5-0
