@@ -14,4 +14,3 @@ wget $URL_SHA -O $NAME.sha256
 echo "$(cat $NAME.sha256)  $NAME" | sha256sum --check
 # micromamba-linux-64: OK
 ```
-
