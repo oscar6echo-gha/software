@@ -3,7 +3,7 @@
 Ref <https://github.com/mamba-org/micromamba-releases/releases>
 
 ```sh
-VERSION=1.4.5-0
+VERSION=1.4.9-0
 NAME=micromamba-linux-64
 URL=https://github.com/mamba-org/micromamba-releases/releases/download/$VERSION/$NAME
 URL_SHA=$URL.sha256
